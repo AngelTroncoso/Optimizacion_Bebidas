@@ -1,5 +1,5 @@
 # 🥤 Predicción de Ventas de Bebidas con Regresión Polinómica 📈
-![Bebidas](https://image.lexica.art/full_webp/0ee73d7c-8b80-408b-ac49-8bfa221934f1)
+![Bebidas](https://image.lexica.art/full_webp/748970c0-3560-4ee6-85da-b9b30a8b6dde)
 
 ¡Bienvenido al repositorio de análisis predictivo para ventas de bebidas! Este proyecto utiliza **regresión polinómica** para modelar la relación entre variables de mercado y ventas de productos líquidos. Ideal para retail, manufactura y gestión de inventarios.
 
